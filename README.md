@@ -9,7 +9,7 @@
 
 <br />
 
-![17-short-specializations-certificate-tuyishime-clement](https://github.com/user-attachments/assets/b37024ba-8f57-4ef9-a1e5-82af7da1d1f0)
+[![17-short-specializations-certificate-tuyishime-clement](https://github.com/user-attachments/assets/b37024ba-8f57-4ef9-a1e5-82af7da1d1f0)](https://intranet.alxswe.com/certificates/pPFCB3Sh9M)
 
 <br /><hr /><br />
 
@@ -47,6 +47,8 @@
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <hr>
+
+
 
 
 
