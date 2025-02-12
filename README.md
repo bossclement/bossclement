@@ -22,13 +22,15 @@
 |----|----|
 |[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=bossclement&show_icons=true&theme=dark&hide_title=false)](https://github.com/bossclement)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossclement&show_icons=true&theme=dark&layout=compact&hide_title=false)](https://github.com/bossclement)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyse502&theme=dark" alt="elyse502" margin="10"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bossclement&theme=dark" alt="bossclement" margin="10"/></p> -->
+
+<br />
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. <br /><br />
 
 </div>
 
-<hr>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. <br /><br />
+<hr><br /><br />
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
@@ -47,8 +49,6 @@
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <hr>
-
-
 
 
 
