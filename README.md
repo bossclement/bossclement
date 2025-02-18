@@ -4,12 +4,15 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Software+Engineer;SE+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+  <a href="https://github.com/bossclement"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Software+Engineer;SE+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
 </p>
 
 <br />
 
-[![17-short-specializations-certificate-tuyishime-clement](https://github.com/user-attachments/assets/b37024ba-8f57-4ef9-a1e5-82af7da1d1f0)](https://intranet.alxswe.com/certificates/pPFCB3Sh9M)
+<!-- [![17-short-specializations-certificate-tuyishime-clement](https://github.com/user-attachments/assets/b37024ba-8f57-4ef9-a1e5-82af7da1d1f0)](https://intranet.alxswe.com/certificates/pPFCB3Sh9M) -->
+
+[![17-short-specializations-certificate-clement-tuyishime](https://github.com/user-attachments/assets/fe7cebe3-37c6-404b-a36e-3b2313453825)](https://intranet.alxswe.com/certificates/pPFCB3Sh9M)
+
 
 <br /><hr /><br />
 
@@ -49,6 +52,8 @@
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <hr>
+
+
 
 
 
