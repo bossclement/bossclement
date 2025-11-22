@@ -12,7 +12,7 @@
 <!-- [![17-short-specializations-certificate-tuyishime-clement](https://github.com/user-attachments/assets/b37024ba-8f57-4ef9-a1e5-82af7da1d1f0)](https://intranet.alxswe.com/certificates/pPFCB3Sh9M) -->
 
 [![17-short-specializations-certificate-clement-tuyishime](https://github.com/user-attachments/assets/fe7cebe3-37c6-404b-a36e-3b2313453825)](https://intranet.alxswe.com/certificates/pPFCB3Sh9M)
-[![NetOps](https://github.com/user-attachments/assets/fe7cebe3-37c6-404b-a36e-3b2313453825)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/167322564)
+[![NetOps](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/167322564)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/167322564)
 
 
 <br /><hr /><br />
